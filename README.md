@@ -107,5 +107,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/banking-application
+Your Name - stacyjones12335@gmail.com
+Project Link: https://github.com/StacyJ1201/BankingApp
